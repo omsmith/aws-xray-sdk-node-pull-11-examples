@@ -13,10 +13,10 @@ These images show the trace results of running the above examples. Unpatched in
 the top row, patched in the bottom.
 
 ## Example 1
-![example 1 trace, unpatched vs patched][e1.png]
+![example 1 trace, unpatched vs patched](e1.png)
 
 ## Example 2
-![example 2 trace, unpatched vs patched][e2.png]
+![example 2 trace, unpatched vs patched](e2.png)
 
 ## Example 3
-![example 3 trace, unpatched vs patched][e3.png]
+![example 3 trace, unpatched vs patched](e3.png)
